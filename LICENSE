@@ -7,7 +7,11 @@
 
                             Preamble
 
+<<<<<<< HEAD
   a b c Public License is a free, copyleft license for
+=======
+  a b c Public License is a free, copyleft license for
+>>>>>>> branch1
 software and other kinds of works.
 
   The licenses for most software and other practical works are designed
@@ -666,9 +670,9 @@ if any, to sign a "copyright disclaimer" for the program, if necessary.
 For more information on this, and how to apply and follow the GNU GPL, see
 <https://www.gnu.org/licenses/>.
 
-  The GNU General Public License does not permit incorporating your program
-into proprietary programs.  If your program is a subroutine library, you
-may consider it more useful to permit linking proprietary applications with
-the library.  If this is what you want to do, use the GNU Lesser General
-Public License instead of this License.  But first, please read
-<https://www.gnu.org/licenses/why-not-lgpl.html>.
+  The GNU General Public License does not permit incorporating your 
+program into proprietary programs.  If your program is a subroutine 
+library, you may consider it more useful to permit linking proprietary 
+applications with the library.  If this is what you want to do, use the 
+GNU Lesser General Public License instead of this License.  But first, 
+please read <https://www.gnu.org/licenses/why-not-lgpl.html>.
